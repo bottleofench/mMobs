@@ -1,0 +1,8 @@
+name: MMobs
+version: '${project.version}'
+main: api.bottleofench.mmobs.MMobs
+api-version: 1.18
+authors: [ bottleofench ]
+commands:
+  mmobs:
+    permission: mmobs

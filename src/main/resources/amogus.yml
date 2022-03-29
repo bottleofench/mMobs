@@ -1,0 +1,24 @@
+customName: "Amogus"
+customNameVisible: true
+type: ZOMBIE
+health: 20
+isBaby: false
+visualFire: false
+canPickupItems: true
+removeWhenFarAway: true
+spawnInNature: true
+spawnInNatureChance: 100
+silent: false
+attributes:
+  GENERIC_ARMOR: 1.0
+effects:
+  SPEED: 1
+equipment:
+  ITEM_IN_MAIN_HAND:
+    type: IRON_AXE
+    amount: 1
+    damage: 0
+    unbreakable: false
+    dropChance: 100
+    enchantments:
+      MENDING: 1
