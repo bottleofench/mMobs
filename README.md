@@ -1,14 +1,14 @@
 # mMobs
 
-Description
+A plugin that allows you to spawn custom mobs using flexible custom mob files
 
 ## API
 
 Add Jitpack repository to pom.xml:
 ```xml
 <repository>
-	<id>jitpack.io</id>
-	<url>https://jitpack.io</url>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
 </repository>
 ```
 Add dependency to pom.xml:
